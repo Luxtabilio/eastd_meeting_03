@@ -1,0 +1,15 @@
+---
+title: "About"
+image: images/profile.jpg
+about:
+    template: jolla
+---
+
+## Hello, I'm Kien!
+
+I completed my B.A. in Asian Languages and Literature and B.A. in Linguistics at the University of Georgia. Currently, I am working on my MDiv at Harvard Divinity School.
+
+My academic work focuses on the intellectual history of Buddhism, particularly early canonical traditions, sectarian developments, early Mahāyāna thought, and the transmission of Buddhism into China. My methodological approach emphasizes hermeneutic flexibility—understanding Buddhist texts and doctrines within their own intellectual, literary, and soteriological contexts. My work examines how temporarily setting aside one's paradigmatic assumptions can reveal deeper coherence and nuance across diverse Buddhist traditions. I'm particularly interested in how doctrinal systems function not merely as philosophical frameworks but also as soteriological tools, sometimes appearing contradictory externally yet proving internally coherent and pragmatically essential. By integrating philosophical analysis with literary sensitivity, I aim for interpretations that respect the internal logic, practical aims, and textual richness of the Buddhist traditions I study.
+
+Beyond intellectual history, I explore practical applications of Buddhist therapeutics in contemporary medical and psychotherapeutic contexts. Currently, I am developing a caregiving framework called the Exemplar Model, which proposes an intentional system of self-cultivation for caregivers alongside their field-specific models of care. In this approach, caregivers strive to embody the virtues they wish to nurture in others, becoming living exemplars of healing. Through purposeful self-cultivation, caregivers can become immediate sources of safety and trust—qualities perceptible to those seeking care even before any words are exchanged.
+

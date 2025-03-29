@@ -1,0 +1,52 @@
+---
+title: "Nalanda"
+page-layout: full
+---
+
+<div class="lotus-divider">☸</div>
+
+# Welcome to My Academic Space
+
+I'm Kien Le, a scholar in Buddhist Studies currently working on my MDiv at Harvard Divinity School. My academic work focuses on the intellectual history of Buddhism, particularly early canonical traditions, sectarian developments, early Mahāyāna thought, and the transmission of Buddhism into China.
+
+## My Focus
+
+My methodological approach emphasizes hermeneutic flexibility—understanding Buddhist texts and doctrines within their own intellectual, literary, and soteriological contexts. I also explore practical applications of Buddhist therapeutics in contemporary medical and psychotherapeutic contexts.
+
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+
+### Current Research
+
+Explore some of my scholarly interests:
+
+- [Buddhist Intellectual History](/work.html#buddhist-intellectual-history)
+- [Buddhist Transmission to China](/work.html#buddhist-transmission)
+- [The Exemplar Model of Caregiving](/work.html#exemplar-model)
+
+[View all projects →](/work.html)
+
+</div>
+<div class="g-col-12 g-col-md-6">
+
+### Recent Reflections
+
+Thoughts and insights on Buddhist studies:
+
+- [Hermeneutic Flexibility in Understanding Madhyamaka](/posts/post-1.html)
+- [Transmission of Buddhism to China: Textual and Doctrinal Transformations](/posts/post-2.html)
+- [The Exemplar Model: Buddhist Principles in Contemporary Caregiving](/posts/post-3.html)
+
+[Read more on the blog →](/blog.html)
+
+</div>
+</div>
+
+<blockquote>
+"Pubbe cāhaṁ, anurādha, etarahi ca dukkhañceva paññapemi, dukkhassa ca nirodhan"ti." (SN 22.86)<br>
+— The Buddha
+</blockquote>
+
+## Academic Collaboration
+
+I welcome opportunities for academic collaboration, guest lectures, or discussions about Buddhist philosophy and practice. Please [reach out](/contact.html) if you're interested in connecting.

@@ -1,0 +1,59 @@
+---
+title: "My Work"
+---
+
+<div class="lotus-divider">☸</div>
+
+# My Academic Work
+
+Here's a showcase of my research and academic projects in Buddhist Studies.
+
+## Projects
+
+### Buddhist Intellectual History {#buddhist-intellectual-history}
+
+A comprehensive analysis of Buddhist philosophical concepts across traditions:
+
+- Comparative study of early canonical traditions and their doctrinal developments
+- Analysis of sectarian developments in Buddhist thought
+- Examination of early Mahāyāna philosophical frameworks
+- Hermeneutic approaches to understanding Buddhist texts within their own contexts
+
+**Research Areas:** Early Buddhism, Buddhist Philosophy, Comparative Religious Studies
+
+### Buddhist Transmission to China {#buddhist-transmission}
+
+An exploration of how Buddhist traditions were transmitted and transformed in Chinese contexts:
+
+- Analysis of translation methodologies and their impact on doctrinal understanding
+- Study of cultural adaptations in early Chinese Buddhist texts
+- Examination of the development of uniquely Chinese Buddhist schools
+- Investigation of hermeneutical strategies in cross-cultural transmission
+
+**Research Areas:** Chinese Buddhism, Comparative Religious Studies, Translation Studies
+
+### Hermeneutic Flexibility in Buddhist Traditions {#hermeneutic-flexibility}
+
+Research on interpretive approaches to Buddhist doctrines across traditions:
+
+- Analysis of how temporarily setting aside paradigmatic assumptions reveals deeper coherence
+- Study of doctrinal systems as both philosophical frameworks and soteriological tools
+- Exploration of apparent contradictions that prove internally coherent
+- Integration of philosophical analysis with literary sensitivity
+
+**Research Areas:** Buddhist Hermeneutics, Comparative Philosophy, Textual Studies
+
+### The Exemplar Model of Caregiving {#exemplar-model}
+
+Development of a caregiving framework based on Buddhist principles:
+
+- Creation of an intentional system of self-cultivation for caregivers
+- Integration with field-specific models of care
+- Exploration of how caregivers can embody the virtues they wish to nurture in others
+- Research on how embodied virtues create immediate sources of safety and trust
+
+**Research Areas:** Buddhist Therapeutics, Medical Humanities, Contemplative Care
+
+---
+
+Interested in collaboration or have questions about my research? [Contact me](/contact.html) to discuss potential projects or academic exchanges.

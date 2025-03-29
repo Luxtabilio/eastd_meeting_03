@@ -1,0 +1,24 @@
+---
+title: "Research Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 5
+page-layout: full
+title-block-banner: true
+---
+
+<div class="lotus-divider">☸</div>
+
+# Reflections on Buddhist Studies
+
+Welcome to my research blog where I share insights, reflections, and explorations in Buddhist intellectual history, early canonical traditions, sectarian developments, and early Mahāyāna thought. I also explore the practical applications of Buddhist therapeutics in contemporary medical and psychotherapeutic contexts. These posts represent ongoing inquiries and scholarly reflections rather than final conclusions.
+
+<blockquote>
+"In the beginner's mind there are many possibilities, but in the expert's mind there are few."<br>
+— Shunryu Suzuki
+</blockquote>

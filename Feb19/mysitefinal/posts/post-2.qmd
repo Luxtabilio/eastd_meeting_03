@@ -1,0 +1,9 @@
+---
+title: "Transmission of Buddhism to China: Textual and Doctrinal Transformations"
+author: "Kien Le"
+date: "2025-02-20"
+categories: [buddhist transmission, early canonical traditions, chinese buddhism]
+image: "../images/computer_monk.png"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.

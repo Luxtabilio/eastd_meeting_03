@@ -1,0 +1,9 @@
+---
+title: "The Exemplar Model: Buddhist Principles in Contemporary Caregiving"
+author: "Kien Le"
+date: "2025-01-10"
+categories: [buddhist ethics, contemporary buddhism, applied philosophy]
+image: "../images/patacara.jpg"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.

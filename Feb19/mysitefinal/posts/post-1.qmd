@@ -1,0 +1,9 @@
+---
+title: "Hermeneutic Flexibility in Understanding Madhyamaka"
+author: "Kien Le"
+date: "2025-03-15"
+categories: [buddhist philosophy, madhyamaka, hermeneutics]
+image: "../images/nagarjuna.jpg"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl. Nullam euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc quis nisl.
